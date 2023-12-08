@@ -15,15 +15,12 @@ My name is Arley Coto and I am a software developer with one year of experience.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## GitHub Stats
-<div style="display:flex;flex-wrap:wrap;justify-content:space-around;align-items:center;align-content: space-between; height: 500px;">
-  <div href="https://github.com/arley94/arley94">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arley94&hide=text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-  </div>
-  <div href="https://github.com/arley94/arley94">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arley94&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="arley94's GitHub Stats" />
-  </div>
-</div>
-
+<a href="https://github.com/arley94/arley94">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arley94&hide=text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+</a>
+<a href="https://github.com/arley94/arley94">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arley94&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="arley94's GitHub Stats" />
+</a>
 
 <!--
 **arley94/arley94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
